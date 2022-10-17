@@ -1,31 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@8eauty 
-8eauty
-/
-Loginform
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Loginform/src/LoginForm.form
-@8eauty
-8eauty 4 files added
-Latest commit 9b8d1a0 15 hours ago
- History
- 1 contributor
-141 lines (141 sloc)  6.78 KB
+
 
 <?xml version="1.0" encoding="UTF-8"?>
 <form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="LoginForm">
@@ -168,18 +141,3 @@ Latest commit 9b8d1a0 15 hours ago
     </children>
   </grid>
 </form>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loginform/LoginForm.form at master · 8eauty/Loginform
